@@ -1,0 +1,2 @@
+C:\Users\shinh\OneDrive\바탕 화면\Programming\Sudoku_C++\x64\Debug\Sudoku_C++.exe
+C:\Users\shinh\OneDrive\바탕 화면\Programming\Project\Sudoku_C++\x64\Debug\Sudoku_C++.exe

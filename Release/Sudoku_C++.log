@@ -1,0 +1,8 @@
+﻿  Sudoku_C++.cpp
+C:\Users\shinh\OneDrive\바탕 화면\Programming\Project\Sudoku_C++\Sudoku_C++.cpp(156,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  1 of 246 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Sudoku_C++.vcxproj -> C:\Users\shinh\OneDrive\바탕 화면\Programming\Project\Sudoku_C++\Release\Sudoku_C++.exe
